@@ -1,1 +1,1 @@
-# GeospatialData IDSI
+# GeospatialData
